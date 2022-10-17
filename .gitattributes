@@ -55,6 +55,7 @@
 *.lxo filter=lfs diff=lfs merge=lfs -text
 *.so filter=lfs diff=lfs merge=lfs -text
 *.bundle filter=lfs diff=lfs merge=lfs -text
+*.data filter=lfs diff=lfs merge=lfs -text
 
 #Odin
 # Ignore the auto-generated AOT compatibility dll.
